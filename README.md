@@ -1,9 +1,3 @@
-<div id="header" align="center">
-	<h1 align="center">Zelo is</h1>
-	<h3 align="center">currently learning Python</h3>
-</div>
-
-
 - 👋 Hi, I’m @ZeloZalis
 - 👀 I’m interested in ... videogames and programming.
 - 🌱 I’m currently learning ... Python
