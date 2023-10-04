@@ -1,4 +1,4 @@
-- 👋 Hi, u can call me Zelo
+- 👋 Hi, u can call me Valentín or Valentine
 - 👀 I like games and coding.
 - 🌱 I've practiced C++ before, but currently learning Python
 
