@@ -1,5 +1,5 @@
 - 👋 Hi, u can call me Zelo
-- 👀 I do like games and coding.
+- 👀 I like games and coding.
 - 🌱 I've practiced C++ before, but currently learning Python
 
 <!---
