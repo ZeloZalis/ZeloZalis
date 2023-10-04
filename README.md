@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ZeloZalis
-- 👀 I’m interested in ... videogames and programming.
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... no_idea
-- 📫 How to reach me ... no_idea*2
+- 👋 Hi, u can call me Zelo
+- 👀 I do like games and coding.
+- 🌱 I've practiced C++ before, but currently learning Python
 
 <!---
 ZeloZalis/ZeloZalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
