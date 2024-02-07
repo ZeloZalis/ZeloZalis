@@ -6,6 +6,8 @@
 
 CV: [Español](https://drive.google.com/file/d/1Fu1xF_cD91jCwQR8hX77DTnINzC6IMhF/view?usp=drive_link "Español")
 
+[LinkedIn](https://www.linkedin.com/in/luis-chópite-105533183/)
+
 *Right Now Looking for Work*
 
 I'm also interested in helping with projects, if you are working on something and you think I can be of help with something, you can PM me.
