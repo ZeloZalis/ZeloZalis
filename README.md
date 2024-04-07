@@ -4,6 +4,18 @@
 - 💬 Main language is spanish
 - 📃 But I can write/read english well
 
+
+<section >
+     <div id="badges" align="center">
+        <a href="mailto:minenaga1@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+        </a>
+         <a href="https://drive.google.com/file/d/1Fu1xF_cD91jCwQR8hX77DTnINzC6IMhF/view?usp=drive_link">
+          <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
+        </a>
+    </div>
+</section>
+
 CV: [Español](https://drive.google.com/file/d/1Fu1xF_cD91jCwQR8hX77DTnINzC6IMhF/view?usp=drive_link "Español") | [English](https://drive.google.com/file/d/1xadFV904R3X7uNge3gKw5caU6wYEIf1p/view?usp=drive_link)
 
 [LinkedIn](https://www.linkedin.com/in/luis-chópite-105533183/)
